@@ -96,38 +96,27 @@ public class OracionesActivity extends Activity {
                 break;
             case 0:
                 txtTitulo.setText("Credo");
-                txtOracion.setText("\"Creo en un solo Dios, Padre todopoderoso, \n" +
-                        "Creador del cielo y de la tierra, \n" +
-                        "de todo lo visible y lo invisible.\n" +
-                        "Creo en un solo Señor, Jesucristo, \n" +
-                        "Hijo único de Dios, nacido del Padre antes de todos los siglos: \n" +
-                        "Dios de Dios, Luz de Luz, Dios verdadero de Dios verdadero, \n" +
-                        "engendrado, no creado, de la misma naturaleza del Padre, \n" +
-                        "por quien todo fue hecho; \n" +
-                        "que por nosotros lo hombres, \n" +
-                        "y por nuestra salvación bajó del cielo, \n" +
-                        "y por obra del Espíritu Santo se encarnó de María, la Virgen, \n" +
-                        "y se hizo hombre; \n" +
-                        "y por nuestra causa fue crucificado \n" +
-                        "en tiempos de Poncio Pilato; \n" +
-                        "padeció y fue sepultado, \n" +
-                        "y resucitó al tercer día, según las Escrituras, \n" +
-                        "y subió al cielo, \n" +
-                        "y está sentado a la derecha del Padre; \n" +
-                        "y de nuevo vendrá con gloria \n" +
-                        "para juzgar a vivos y muertos, \n" +
-                        "y su reino no tendrá fin. \n" +
-                        "Creo en el Espíritu Santo, \n" +
-                        "Señor y dador de vida, \n" +
-                        "que procede del Padre y del Hijo, \n" +
-                        "que con el Padre y el Hijo \n" +
-                        "recibe una misma adoración y gloria, \n" +
-                        "y que habló por los profetas. \n" +
-                        "Creo en la Iglesia, que es una, santa, católica y apostólica.\n" +
-                        "Confieso que hay un solo bautismo \n" +
-                        "para el perdón de los pecados. \n" +
-                        "Espero la resurrección de los muertos \n" +
-                        "y la vida del mundo futuro. \n" +
+                txtOracion.setText("Creo en Dios, Padre Todopoderoso,\n" +
+                        "Creador del cielo y de la tierra.\n" +
+                        "Creo en Jesucristo, su único Hijo,\n" +
+                        "Nuestro Señor,\n" +
+                        "Que fue concebido por obra y gracia \n" +
+                        "del Espíritu Santo, \n" +
+                        "nació de Santa María Virgen, \n" +
+                        "padeció bajo el poder de Poncio Pilato, \n" +
+                        "fue crucificado, muerto y sepultado, \n" +
+                        "descendió a los infiernos, \n" +
+                        "al tercer día resucitó de entre los muertos, subió a los cielos\n" +
+                        "y está sentado a la derecha de Dios, \n" +
+                        "Padre todopoderoso. \n" +
+                        "Desde allí ha de venir\n" +
+                        "a juzgar a vivos y muertos.\n" +
+                        "Creo en el Espíritu Santo,\n" +
+                        "la santa Iglesia católica, \n" +
+                        "la comunión de los santos,\n" +
+                        "el perdón de los pecados, \n" +
+                        "la resurrección de la carne\n" +
+                        "y la vida eterna.\n" +
                         "Amén.");
                 break;
 

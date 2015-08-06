@@ -60,6 +60,11 @@ public class InstruccionesActivity extends Activity {
         ly_instrucciones.add(ins);
 
 
+        ins = new Instruccion();
+        ins.setTextoLargo("Despedida");
+        ins.setTextoCorto("Recite La oración de despedida");
+        ly_instrucciones.add(ins);
+
 
         IntroListaAdapter adaptador = new IntroListaAdapter(this,ly_instrucciones);
         lista.setAdapter(adaptador);
